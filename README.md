@@ -31,7 +31,6 @@ This project is a creative web application that collects user input through a fo
 3. Fill out the form and submit to see your personalized story.
 
 ## Screenshots
-
 ![Form Screenshot](screenshot-form.png)
 ![Story Screenshot](screenshot-story.png)
 
